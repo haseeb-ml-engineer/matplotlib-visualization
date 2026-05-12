@@ -29,7 +29,7 @@ The goal of this repository is to strengthen my understanding of data visualizat
 
 ## Notebook
 
-- matplotlib_basics.ipynb
+- matplotlib.ipynb
 
 ## Author
 
